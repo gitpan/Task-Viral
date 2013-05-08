@@ -1,0 +1,19 @@
+---
+abstract: "Conquering hosts\r"
+author:
+  - 'G. Casati <fibo@cpan.org>'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300034, CPAN::Meta::Converter version 2.120921'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Task-Viral
+requires:
+  App::cpanminus: 1.6006
+  App::perlbrew: 0.63
+  Task::Pinto: 0.003
+version: 20130508
